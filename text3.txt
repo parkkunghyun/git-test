@@ -1,5 +1,3 @@
 hello world
-
-// git add는 모든 파일을 스테이지area에 올림 ->
-// git add text3.txt로 이것만 각 개별로 올리기도 가능함
-// git status로 상태 확인가능
+hello world3
+hello world4
