@@ -1,1 +1,3 @@
 text2 hello
+
+fetching text2 hello
